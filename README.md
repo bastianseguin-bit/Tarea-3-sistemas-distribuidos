@@ -33,6 +33,9 @@ El despliegue ha sido **completamente automatizado**. No se requieren comandos m
 #### Requisitos
 * Docker y Docker Compose instalados.
 
+#### Video demostración
+https://youtu.be/MnNQSnEAL6Y
+
 #### Pasos
 
 ```bash
